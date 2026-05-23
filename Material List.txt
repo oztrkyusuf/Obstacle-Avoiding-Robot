@@ -1,0 +1,8 @@
+Arduino or ESP32            1X
+9V Battery                  2X
+L298N Motor Driver          1X
+Robot Body                  1X
+Geared DC Motor             2X
+Drunk Wheel                 1X
+Wheel                       2X
+UltraSonic Distance Sensor  1X
